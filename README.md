@@ -1,4 +1,3 @@
-```markdown
 # Trivia Quiz Application with GUI
 
 A sleek and interactive trivia quiz application built with Python and Tkinter. This app fetches live trivia questions from the Open Trivia Database API, challenging the user with a series of true or false questions in a clean, graphical interface.
@@ -93,5 +92,3 @@ You can easily change the category of the trivia questions by modifying the API 
 ## Acknowledgments
 
 This project was inspired by and completed with the guidance of the **[100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)** by Dr. Angela Yu.
-
-```
